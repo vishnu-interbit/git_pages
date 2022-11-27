@@ -1,0 +1,12 @@
+export { default as Nav } from "./Navbar";
+export { default as Banner } from "./Banner";
+export { default as Choice } from "./Choice";
+export { default as WhyUs } from "./ReasonToContact";
+export { default as Services } from "./AllServices";
+export { default as Aboutus } from "./About";
+export { default as FeaturedOn } from "./FeaturedOn";
+export { default as Reviews } from "./Reviews";
+export { default as ContactForm } from "./ContactForm";
+export { default as Process } from "./Process";
+export { default as Zips } from "./ZipCodes";
+export { default as Footer } from "./Footer";
